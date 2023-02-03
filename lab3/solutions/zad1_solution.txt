@@ -1,0 +1,2 @@
+[banana] minimum: [0.020, 0.032, ], evaluations: 115, value = 1.062972
+[second] minimum: [0.809, 1.749, ], evaluations: 104, value = 10.437352

@@ -1,0 +1,2 @@
+[Simplex]: minimum: [3.8271604938e-01, -1.9753086420e-01, ], evaluations: 72, value = 0.538139
+[HookeJeeves]: minimum: [0.0000000000e+00, 0.0000000000e+00, ], evaluations: 43, value = 0.000000

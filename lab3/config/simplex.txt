@@ -1,0 +1,6 @@
+e = 1e-6
+step = 1
+alpha = 1
+beta = 0.5
+gamma = 2
+sigma = 0.5

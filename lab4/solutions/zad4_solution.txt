@@ -1,0 +1,5 @@
+[Simplex]: minimum: [-3.1388888889e+00, -4.2777777778e+00, ], evaluations: 92, value = -0.802006
+[Simplex]: minimum: [-3.8888888889e-01, -1.1111111111e-01, ], evaluations: 90, value = 0.393677
+[Simplex]: minimum: [-2.8364197531e+00, 2.9259259259e+00, ], evaluations: 78, value = -0.787501
+[Simplex]: minimum: [-3.0908779150e+00, -6.0562414266e-01, ], evaluations: 158, value = 0.001715
+[Simplex]: minimum: [5.5555555556e-01, -5.0138888889e+00, ], evaluations: 120, value = -0.920824

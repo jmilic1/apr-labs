@@ -1,0 +1,4 @@
+fourth function
+[Coordinate]: minimum: [2.0999999533e+00, 3.0999999780e+00, ], evaluations: 80, value = 8.944329
+[Simplex]: minimum: [3.5320987654e+00, 3.2742112483e+00, ], evaluations: 96, value = 6.571504
+[HookeJeeves]: minimum: [2.1000000000e+00, -1.9000000000e+00, ], evaluations: 23, value = 3.631960
